@@ -22,11 +22,6 @@ In this simulation, I explored how **data science plays a critical role in Briti
 - Price sensitivity and customer satisfaction were significant drivers of purchase decisions.  
 - The predictive model provided valuable insights into which features impact buying behavior the most.  
 
-## 📁 Repository Structure
-- `notebooks/` – Jupyter Notebook with scraping, analysis, and modeling.  
-- `data/` – (Optional) sample dataset if allowed.  
-- `images/` – Visualizations for README.  
-
 ## 📌 Outcome
 This project highlighted how **data-driven insights** can help British Airways improve customer experience and optimize services. By combining web scraping, EDA, and predictive modeling, the analysis demonstrated how airlines can leverage data science for competitive advantage.  
 
